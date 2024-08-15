@@ -3,7 +3,7 @@
 
 Meu nome é Gabriela
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Estou me desenvolvendo na linguagem JavaScript <a href="https://cara.app/g416s" target="blank"><img align="right" src="mano.gif" alt="aaaaaa" height="110" width="110" /></a>
+- Estou me desenvolvendo na linguagem JavaScript <a href="https://cara.app/g416s" target="blank"><img align="right" src="mano.gif" alt="aaaaaa" height="150" width="150" /></a>
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos 
 
 ### Você pode entrar em contato comigo 📫
